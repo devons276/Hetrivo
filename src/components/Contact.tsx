@@ -192,7 +192,7 @@ const Contact = () => {
                   </div>
                   <div>
                     <h4 className="text-lg font-semibold text-black">WhatsApp</h4>
-                    <p className="text-gray-600">+44 7XXX XXXXXX</p>
+                    <p className="text-gray-600">+380 99 043 2847</p>
                   </div>
                 </div>
               </div>
